@@ -1,0 +1,18 @@
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\QBit Decoder.exe.config
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\QBit Decoder.exe
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\QBit Decoder.pdb
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\Ookii.Dialogs.Wpf.pdb
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\MainWindow.g.cs
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\App.g.cs
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder_MarkupCompile.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder_MarkupCompile.lref
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\MainWindow.baml
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.g.resources
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit_Decoder.Properties.Resources.resources
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.csproj.CopyComplete
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.exe
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Release\QBit Decoder.pdb

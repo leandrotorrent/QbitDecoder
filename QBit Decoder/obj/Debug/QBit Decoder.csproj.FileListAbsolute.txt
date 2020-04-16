@@ -1,0 +1,19 @@
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\App.g.cs
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder_MarkupCompile.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder_MarkupCompile.lref
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\QBit Decoder.exe.config
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\QBit Decoder.exe
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\QBit Decoder.pdb
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\MainWindow.baml
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.g.resources
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit_Decoder.Properties.Resources.resources
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.exe
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.pdb
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Administrador\source\repos\QBit Decoder\QBit Decoder\obj\Debug\QBit Decoder.csproj.CopyComplete
